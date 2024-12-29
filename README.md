@@ -6,10 +6,34 @@ The code in this repository has been originally developed and provided by the am
 - 👦 **Google Developer Expert @Android**  
 - 💼 **Senior Android Engineer @Deliveroo** (Ex - @Paytm, @ScaleReal)  
 - 👨‍💻 Builds Mobile, Web apps, and Backend servers  
-- ✍️ Writes insightful blogs at [blog.shreyaspatil.dev](https://blog.shreyaspatil.dev)  
+- ✍️ Shares insights and blogs at [blog.shreyaspatil.dev](https://blog.shreyaspatil.dev)  
 - 🎵 & 🎹 Enthusiast  
 
-While this repository welcomes contributions (refer to [CONTRIBUTING.md](CONTRIBUTING.md) for details), all credit for the initial development of this code belongs to Shreyas Patil.  
+We sincerely thank Shreyas Patil for his incredible contribution to the developer community. His work has inspired countless learners and practitioners in the field of Android development.  
+
+### 📸 Relive the Moments:  
+Couldn’t attend the session? Don’t worry!  
+1️⃣ 📹 **Workshop Recording**: Watch the session and continue learning!  
+🔗 [Recording Link](https://youtu.be/fPsLK-bwR3s)  
+
+2️⃣ 📂 **GitHub Repository**: Access code and resources from the workshop.  
+🔗 [GitHub Repo](https://github.com/GDG-OnCampusTMSL/Tech-Winter-Break--AppDev)  
+
+3️⃣ 📸 **Event Photos**: Cherish the memories with our event highlights.  
+🔗 [Photo Album](https://photos.app.goo.gl/HBLhvkx4Hy2X2RmY8)  
+
+### 🎯 Huge Thanks:  
+A heartfelt shoutout to:  
+- **GDG on Campus Techno Main Salt Lake - Kolkata, India**  
+- **GDG on Campus Nagesh Karajgi Orchid College of Engineering & Technology - Solapur**  
+- **GDG on Campus Trinity College of Engineering and Research - Pune, India**  
+and all our community members for making this workshop memorable!  
+
+### Contribution Guidelines  
+While this repository welcomes contributions, please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines before raising a Pull Request (PR).  
+
+Thank you for your interest and enthusiasm for this project. Let’s continue to learn, build, and grow together! 🚀  
+
 
 
 # ChaKt - Chat with AI 💬✨
